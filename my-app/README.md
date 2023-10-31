@@ -20,5 +20,6 @@ Tailwind Css
 Radix UI
 
 The project is licensed under GPLV3.0
-~simon kamau waweru~ ------> class work
+
+# simon kamau waweru ------> class work
 
